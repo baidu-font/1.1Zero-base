@@ -1,20 +1,4 @@
 
-<!DOCTYPE html>
-<html>
-<head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no"><meta name="format-detection" content="telephone=no"><meta name="apple-mobile-sweb-app-capable" content="yes"><meta name="keywords" content="前端, 前端开发, web前端, 前端开发工程师, CSS, JavaScript, HTML, Web标准"><meta name="description" content="百度前端技术学院"><link rel="shortcut icon" href="/asset/img/favicon.ico" type="image/x-icon"><link rel="icon" href="/asset/img/favicon.ico" type="image/x-icon"><link rel="bookmark" href="/asset/img/favicon.ico" type="image/x-icon"><title>百度前端技术学院</title>
-<link href="//ife.baidu.com/asset/css/task/taskDetail_b22b1168.css" rel="stylesheet">
-<script>
-    var _hmt = _hmt || [];
-    (function() {
-        var hm = document.createElement("script");
-        hm.src = "//hm.baidu.com/hm.js?d422e3cabaaaa7445e54622b97472bab";
-        var s = document.getElementsByTagName("script")[0];
-        s.parentNode.insertBefore(hm, s);
-    })();
-</script>
-
-</head>
-<body class="result-op">
 <div id="viewport">
 <header >
 <nav class="navbar navbar-default container ife-header"><div class="row"><div class="navbar-header"><button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
@@ -74,5 +58,3 @@
         });
     });
 </script>
-</body>
-</html>
